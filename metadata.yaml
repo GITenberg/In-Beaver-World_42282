@@ -1,0 +1,34 @@
+_repo: In-Beaver-World_42282
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 42282-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Mills, Enos A.
+    alias: Mills, Enos Abijah
+    birthdate: 1870
+    deathdate: 1922
+    gutenberg_agent_id: '33404'
+    url: http://www.gutenberg.org/2009/agents/33404
+    wikipedia: http://en.wikipedia.org/wiki/Enos_Mills
+description: ''
+gutenberg_issued: '2013-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42282'
+  lccn: '13005458'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Beavers'
+- !lcc 'QL'
+tableOfContents: Working like a beaver -- Our friend the beaver -- The beaver past
+  and present -- As others see him -- The beaver dam -- Harvest time with beavers
+  -- Transportation facilities -- The primitive house -- The beaver's engineering
+  -- The ruined colony -- Beaver pioneers -- The colony in winter -- The original
+  conservationist -- Bibliographical note.
+title: In Beaver World
+url: http://www.gutenberg.org/ebooks/42282
